@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1cf1f172-ab71-0cb2-4e86-be20c452991a
 ---
@@ -32,7 +35,7 @@ _Assignment 1
 _  
 Can you think of three planning topics that interest you? What do you want to know more about? Is there a problem that you want to see fixed? Can Boston learn from Copenhagen? Can Copenhagen learn from Boston?  
   
-\- Create a 5 minute visual presentation (not too many words please, mostly images) on a planning issue of interest to you. Try to focus on Boston and Copenhagen as you think about your issue. You should pull images from places like GoogleTM image or the various Boston and Copenhagen Web sites available. Students will pick a time to present over the next two classes.  
+\- Create a 5 minute visual presentation (not too many words please, mostly images) on a planning issue of interest to you. Try to focus on Boston and Copenhagen as you think about your issue. You should pull images from places like Google{{< sup "TM" >}} image or the various Boston and Copenhagen Web sites available. Students will pick a time to present over the next two classes.  
   
 \- As part of preparing your presentation, you will most likely have a few questions about topics, Denmark and yourself. Write down all of these questions in your research notebook. Then, pull out at least 5 questions for our Guest Jacob Friis from the Royal Danish Consulate, Boston.  
   

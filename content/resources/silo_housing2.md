@@ -2,13 +2,17 @@
 content_type: resource
 description: These silos maintain the industrial character of the area, but do not
   make the waterfront pedestrian friendly.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/c816f5d48475248d721671165ff2ce19_Silo_Housing2.jpg
+file: /media/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/c816f5d48475248d721671165ff2ce19_Silo_Housing2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: These silos maintain the industrial character of the area, but do not make
     the waterfront pedestrian friendly.
   credit: Photo byTejus Kothari.
   image-alt: Silo housing.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: Silo_Housing2.jpg
 uid: c816f5d4-8475-248d-7216-71165ff2ce19

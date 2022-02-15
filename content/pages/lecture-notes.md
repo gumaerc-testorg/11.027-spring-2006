@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 55303748-52d3-9a5b-9b29-5090782fab2b
 ---
@@ -85,7 +88,7 @@ Workshop/Discussion - Interviews
 1st ½ hour: Proposals reviewed: Speed editing.  
 2nd ½ hour: Interview techniques: Now that students have done some preliminary research, it is time to interview 1 or 2 of the people you have identified as experts on their issues. We will discuss interviewing techniques and prepare preliminary questions for our interviewees.  
   
-2nd hour: There is so much more than GoogleTM! Now that you have had a chance to do some research on your own, the MIT librarians will speak to you about how to get even more out of the library on your topic.  
+2nd hour: There is so much more than Google{{< sup "TM" >}}! Now that you have had a chance to do some research on your own, the MIT librarians will speak to you about how to get even more out of the library on your topic.  
   
 Class Notes ([PDF]({{< baseurl >}}/resources/lect4))
 {{< tdclose >}}

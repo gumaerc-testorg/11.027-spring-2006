@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource provides information on the guidelines for various exercises.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/54b9455b8603d3394cd4db6356afed8f_assn_3.pdf
+file: /media/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/54b9455b8603d3394cd4db6356afed8f_assn_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn_3.pdf
 uid: 54b9455b-8603-d339-4cd4-db6356afed8f
