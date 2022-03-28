@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 1cf1f172-ab71-0cb2-4e86-be20c452991a
 ---
@@ -67,7 +68,7 @@ Due in Week #3
 What about Boston?
 {{< tdclose >}}
 {{< tdopen >}}
-In-Class Exercises ([PDF]({{< baseurl >}}/resources/assn_3))  
+In-Class Exercises ({{< resource_link 54b9455b-8603-d339-4cd4-db6356afed8f "PDF" >}})  
   
 _Assignment 3  
 _  
@@ -108,7 +109,7 @@ Due in Week #5
 Guest Presentation by Prof. Ole Madsen, MIT Professor of Civil and Environmental Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-In-Class Exercises ([PDF]({{< baseurl >}}/resources/assn_5))  
+In-Class Exercises ({{< resource_link 42cb0349-0931-ebd4-c7e0-2773d26cb139 "PDF" >}})  
   
 _Assignment 5_  
   
@@ -172,7 +173,7 @@ Due in Week #8
 Research Paper Editing Workshop
 {{< tdclose >}}
 {{< tdopen >}}
-In-Class Exercises ([PDF]({{< baseurl >}}/resources/assn_8))  
+In-Class Exercises ({{< resource_link af24fa0c-b074-562f-c62b-6a2e483fdc74 "PDF" >}})  
   
 _Assignment 8_  
   
