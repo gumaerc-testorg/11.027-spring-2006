@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section gives information about the Copenhagen, Denmark through
+  images.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Image Gallery
 uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 ---

@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section lists the class notes as per the topics covered in the course
+  along with the class notes information.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
-parent_uid: null
 title: Lecture Notes
 uid: 55303748-52d3-9a5b-9b29-5090782fab2b
 ---
@@ -56,7 +57,7 @@ What about Copenhagen?
   
 2nd hour: Expert on the City. Guest Speaker from the Royal Danish Consulate will speak about Denmark's history and contemporary planning issues. Be prepared to take notes in your research notebook.  
   
-Class Notes ({{< resource_link 47782894-88d9-dd67-404e-095cbee47289 "PDF" >}})
+Class Notes ({{% resource_link 47782894-88d9-dd67-404e-095cbee47289 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +75,7 @@ Today we will look at Boston through the eyes of a researcher. Matthew Brownell,
   
 2:30 - 3:00: A bit of Boston History from a design perspective - Matthew Brownell.  
   
-Class Notes ({{< resource_link 93d29492-d9b2-bebe-8a9e-705ec6c91e1f "PDF" >}})
+Class Notes ({{% resource_link 93d29492-d9b2-bebe-8a9e-705ec6c91e1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Workshop/Discussion - Interviews
   
 2nd hour: There is so much more than Google{{< sup "TM" >}}! Now that you have had a chance to do some research on your own, the MIT librarians will speak to you about how to get even more out of the library on your topic.  
   
-Class Notes ({{< resource_link dfc48b50-9461-89c0-d923-06b4109deb68 "PDF" >}})
+Class Notes ({{% resource_link dfc48b50-9461-89c0-d923-06b4109deb68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ Guest Presentation by Prof. Ole Madsen, MIT Professor of Civil and Environmental
   
 2nd hour: Growing up Danish - Visit with Prof. Ole Madsen.  
   
-Class Notes ({{< resource_link 333bd14d-ac86-db59-35e9-a99eb12c8c59 "PDF" >}})
+Class Notes ({{% resource_link 333bd14d-ac86-db59-35e9-a99eb12c8c59 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Guest Presentation by Thomas Oles - "A Tourist in Denmark"
   
 2nd hour: Thomas Oles, Planner/Architect. A foreigner in Copenhagen. What to expect, what to see, how to approach this new city.  
   
-Class Notes ({{< resource_link d19f201b-9286-66a5-310e-ac32495e789b "PDF" >}})
+Class Notes ({{% resource_link d19f201b-9286-66a5-310e-ac32495e789b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +165,7 @@ Trip De-briefing
   
 2nd hour: Sharing. Photo essay presentations.  
   
-Class Notes ({{< resource_link f92310d7-d835-a8d3-f0e7-7e6b85853ba4 "PDF" >}})
+Class Notes ({{% resource_link f92310d7-d835-a8d3-f0e7-7e6b85853ba4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +181,7 @@ Research Paper Editing Workshop
   
 2nd hour: Workshop. Expanding the paper and re-visioning.  
   
-Class Notes ({{< resource_link e466615e-726f-c830-e6f5-391919e8f576 "PDF" >}})
+Class Notes ({{% resource_link e466615e-726f-c830-e6f5-391919e8f576 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +193,7 @@ Class Notes ({{< resource_link e466615e-726f-c830-e6f5-391919e8f576 "PDF" >}})
 Field Trip 1 - Green Line Extension into Somerville, MA and Medford, MA
 {{< tdclose >}}
 {{< tdopen >}}
-Class Notes ({{< resource_link 6b53d959-4dc0-f187-8d21-32575842aefa "PDF" >}})
+Class Notes ({{% resource_link 6b53d959-4dc0-f187-8d21-32575842aefa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +205,7 @@ Class Notes ({{< resource_link 6b53d959-4dc0-f187-8d21-32575842aefa "PDF" >}})
 Field Trip 2 - Visiting Boston's Suburbs (Concord, MA)
 {{< tdclose >}}
 {{< tdopen >}}
-Class Notes ({{< resource_link 78f758b9-595d-60e9-a409-9be3fc214c10 "PDF" >}})
+Class Notes ({{% resource_link 78f758b9-595d-60e9-a409-9be3fc214c10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
