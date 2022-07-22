@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section gives information about the Copenhagen, Denmark through
+  images.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 3d86dfce-ea32-b32b-d063-9fb41405cd30
 ---
 
-{{< image-gallery id="3d86dfce-ea32-b32b-d063-9fb41405cd30_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/" >}}
+{{< image-gallery id="3d86dfce-ea32-b32b-d063-9fb41405cd30_nanogallery2" baseUrl="/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/" >}}
 {{< image-gallery-item href="8358c0afa4c74ca0b53e1a0393306f1f_Round_Tower_View.jpg" data-ngdesc="View of Copenhagen from the Round Tower showing the common use of red tile on roofs." text="View of Copenhagen from the Round Tower showing the common use of red tile on roofs." >}}
 {{< image-gallery-item href="4e0949957ac38793a9fba70d9cd4d87f_Round_Tower.jpg" data-ngdesc="The Round Tower from the ground." text="The Round Tower from the ground." >}}
 {{< image-gallery-item href="5b868506cee31d0a4f5e6efd25462143_Canal_1.jpg" data-ngdesc="Canals shape the physical character of downtown Copenhagen." text="Canals shape the physical character of downtown Copenhagen." >}}
