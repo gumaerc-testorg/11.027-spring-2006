@@ -8,6 +8,7 @@ image_metadata:
   credit: Photo by Prof. Tejus Kothari.
   image-alt: Copenhagen waterfront.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Waterfront.jpg
 uid: 694ba184-81e6-8760-54b8-c3d8ef2f15ea
 ---
 As the waterfront has deindustrialized, new housing is replacing industry.
-

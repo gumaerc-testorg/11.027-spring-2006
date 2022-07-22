@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: The new driverless train.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Subway1.jpg
 uid: 6c40e11a-819c-fd2a-1110-311763a4f1af
 ---
 A new driverless train runs from Copenhagen out to areas that will develop around the stations.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Waterfront path.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Waterfront_Path.jpg
 uid: d3ead54d-0b89-fc84-375c-6c2cec2ba754
 ---
 Paths along the waterfront are heavily used.
-

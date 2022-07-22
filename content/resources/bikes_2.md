@@ -8,6 +8,7 @@ image_metadata:
   credit: Photo by Shawntel Hines.
   image-alt: Bicycles have the right of way in Denmark.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Bikes_2.jpg
 uid: 50c79f02-7f36-1d91-d5dd-df4d5ee19600
 ---
 Bicycles are integrated with the city's other transportation modes.
-

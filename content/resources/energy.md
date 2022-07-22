@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Tejus Kothari.
   image-alt: Energy production on the waterfront.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Energy.jpg
 uid: 24fe496d-68fb-3abc-d8e0-70b33e7c7f73
 ---
 The Copenhagen waterfront is the source of both renewable and non-renewable energy sources.
-

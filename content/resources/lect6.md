@@ -6,6 +6,7 @@ file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-citie
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect6.pdf
 uid: d19f201b-9286-66a5-310e-ac32495e789b
 ---
 This resource provides information on the topic of trip preparation, and guest presentation by Thomas Oles,
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: The Little Mermaid statue.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Little_Mermaid.jpg
 uid: e71414b1-053b-9456-8272-74857ca4e182
 ---
 "The Little Mermaid" statue shows how the sea is a large part of Danish culture.
-

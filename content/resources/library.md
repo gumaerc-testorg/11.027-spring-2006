@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Library on the waterfront.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Library.jpg
 uid: 7d209ef5-fe52-6d5f-b57b-83ce325420d1
 ---
 Cultural uses, such as this library, are being built on the waterfront as well.
-

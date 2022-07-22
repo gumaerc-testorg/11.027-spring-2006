@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: Rural Denmark outside of Copenhagen.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Rural.jpg
 uid: 544259fe-4608-b688-d06b-28fe7ed29424
 ---
 Because of strict zoning, the landscape beyond the city limits remains very rural.
-

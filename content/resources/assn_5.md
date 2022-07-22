@@ -5,6 +5,7 @@ file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-citie
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn_5.pdf
 uid: 42cb0349-0931-ebd4-c7e0-2773d26cb139
 ---
 This resource provides information on the guidelines for various exercises.
-

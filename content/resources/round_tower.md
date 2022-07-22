@@ -8,6 +8,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: View of the Round Tower.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Round_Tower.jpg
 uid: 4e094995-7ac3-8793-a9fb-a70d9cd4d87f
 ---
 The Round Tower from the ground.
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Tejus Kothari.
   image-alt: Housing in old grain silos.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Waterfront_Housing.jpg
 uid: 966535ed-f643-c3d1-98da-b9478d56b1cd
 ---
 Most of the new housing on the waterfront consists of large development blocks.
-

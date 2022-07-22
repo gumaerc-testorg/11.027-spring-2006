@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo byTejus Kothari.
   image-alt: Silo housing.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Silo_Housing2.jpg
 uid: c816f5d4-8475-248d-7216-71165ff2ce19
 ---
 These silos maintain the industrial character of the area, but do not make the waterfront pedestrian friendly.
-

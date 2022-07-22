@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: View from Round Tower.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Round_Tower_View.jpg
 uid: 8358c0af-a4c7-4ca0-b53e-1a0393306f1f
 ---
 View of Copenhagen from the Round Tower showing the common use of red tile on roofs. 
-

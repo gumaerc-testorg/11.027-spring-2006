@@ -5,6 +5,7 @@ file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-citie
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect7.pdf
 uid: f92310d7-d835-a8d3-f0e7-7e6b85853ba4
 ---
 This resource provides information on the topic of trip de-briefing.
-

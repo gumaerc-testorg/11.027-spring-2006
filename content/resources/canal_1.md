@@ -8,6 +8,7 @@ image_metadata:
   credit: Photo by Prof. Cherie Abbanat.
   image-alt: View of Nyhavn Canal.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Canal_1.jpg
 uid: 5b868506-cee3-1d0a-4f5e-6efd25462143
 ---
 Canals shape the physical character of downtown Copenhagen. 
-
