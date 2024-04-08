@@ -12,9 +12,9 @@ uid: 596a903f-94c5-ad39-6320-49861673848d
 What about Copenhagen?
 ----------------------
 
-Goldberger, Paul. "The Sculptor: Santiago Calatrava redefines the apartment tower." [_The New Yorker, The Critics, The Sky Line_](http://www.newyorker.com/archive/2005/03/28/050328crbo_books), October 31, 2005.
+Goldberger, Paul. "The Sculptor: Santiago Calatrava redefines the apartment tower." {{% resource_link "a83a9e64-22f0-4337-a377-b50a753c8f56" "_The New Yorker, The Critics, The Sky Line_" %}}, October 31, 2005.
 
-Updike, John. "Incommensurability: A new biography of Kierkegaard." [_The New Yorker, The Critics, Books_](http://www.newyorker.com/archive/2005/03/28/050328crbo_books), March 28, 2005.
+Updike, John. "Incommensurability: A new biography of Kierkegaard." {{% resource_link "a83a9e64-22f0-4337-a377-b50a753c8f56" "_The New Yorker, The Critics, Books_" %}}, March 28, 2005.
 
 Hamilton, William. "A Global Look at Urban Planning." _New York Times_, January 12, 2006.
 
@@ -52,29 +52,29 @@ Watt, Nicholas. "Bomb threat to repentant Danish paper." _The Guardian_, Februar
 
 "Yemenis Scholars Condemns Denmark Abuses against Prophet." _Yemen Observer_ IX, no. 03 (January 30, 2006).
 
-Harding, Luke, and Kim Willsher. "[Anger as papers reprint cartoons of Muhammad](http://www.guardian.co.uk/religion/Story/0,,1700224,00.html)," _The Guardian_, February 2, 2006.
+Harding, Luke, and Kim Willsher. "{{% resource_link "c1eae2e1-5a39-4145-9098-b45561d4dd29" "Anger as papers reprint cartoons of Muhammad" %}}," _The Guardian_, February 2, 2006.
 
-Makovsky, Paul. "[Pedestrian Cities](https://www.douban.com/note/103713512/) (DOC)." _Metropolis,_ August/September 2002.
+Makovsky, Paul. "{{% resource_link "463b440b-6d32-4c6d-83c0-47d67618a803" "Pedestrian Cities" %}} (DOC)." _Metropolis,_ August/September 2002.
 
 What about Boston?
 ------------------
 
-Web page of the [City of Boston](http://www.cityofboston.gov/mayor/default.asp)
+Web page of the {{% resource_link "ced1ed63-892b-498c-90f8-795ddcf0ff26" "City of Boston" %}}
 
-The Boston 2003 Trend Report: Snapshot of Boston's Children and Youth ([PDF - 2.5 MB](http://www.cityofboston.gov/TridionImages/trend_report_tcm1-1420.pdf))
+The Boston 2003 Trend Report: Snapshot of Boston's Children and Youth ({{% resource_link "51e8b8fd-bfe1-4fe7-a7ca-3bb6ed180e93" "PDF - 2.5 MB" %}})
 
-[Boston 2002-2006 Open Space Plan](https://www.cityofboston.gov/Parks/openspace/2002_2006.asp)
+{{% resource_link "889b799e-b926-4bd9-8099-281958e66323" "Boston 2002-2006 Open Space Plan" %}}
 
 ### Boston Mayor's Priorities
 
-[Education](http://www.cityofboston.gov/mayor/priorities.asp)
+{{% resource_link "442b153b-77ee-4df7-8f44-527c20c56ab7" "Education" %}}
 
-[Affordable Housing](http://www.cityofboston.gov/mayor/priorities.asp)
+{{% resource_link "442b153b-77ee-4df7-8f44-527c20c56ab7" "Affordable Housing" %}}
 
-[Health](http://www.cityofboston.gov/mayor/priorities.asp)
+{{% resource_link "442b153b-77ee-4df7-8f44-527c20c56ab7" "Health" %}}
 
-[Neighborhood Revitalization](http://www.cityofboston.gov/mayor/priorities.asp)
+{{% resource_link "442b153b-77ee-4df7-8f44-527c20c56ab7" "Neighborhood Revitalization" %}}
 
-[Public Safety](http://www.cityofboston.gov/mayor/priorities.asp)
+{{% resource_link "442b153b-77ee-4df7-8f44-527c20c56ab7" "Public Safety" %}}
 
 "Boston's New Bridge." _The Economist_, March 29, 2003.
