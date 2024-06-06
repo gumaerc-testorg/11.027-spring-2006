@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Canals shape the physical character of downtown Copenhagen. '
 file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/5b868506cee31d0a4f5e6efd25462143_Canal_1.jpg
+file_size: 26208
 file_type: image/jpeg
 image_metadata:
   caption: Canals shape the physical character of downtown Copenhagen.

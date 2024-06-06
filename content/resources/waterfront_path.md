@@ -2,6 +2,7 @@
 content_type: resource
 description: Paths along the waterfront are heavily used.
 file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/d3ead54d0b89fc84375c6c2cec2ba754_Waterfront_Path.jpg
+file_size: 20216
 file_type: image/jpeg
 image_metadata:
   caption: Paths along the waterfront are heavily used.
