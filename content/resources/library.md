@@ -2,7 +2,7 @@
 content_type: resource
 description: Cultural uses, such as this library, are being built on the waterfront
   as well.
-file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/7d209ef5fe526d5fb57b83ce325420d1_Library.jpg
+file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/7d209ef5fe526d5fb57b83ce325420d1_Library.jpg
 file_size: 27211
 file_type: image/jpeg
 image_metadata:

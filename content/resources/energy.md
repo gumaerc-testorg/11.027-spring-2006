@@ -2,7 +2,7 @@
 content_type: resource
 description: The Copenhagen waterfront is the source of both renewable and non-renewable
   energy sources.
-file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/24fe496d68fb3abcd8e070b33e7c7f73_Energy.jpg
+file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/24fe496d68fb3abcd8e070b33e7c7f73_Energy.jpg
 file_size: 21418
 file_type: image/jpeg
 image_metadata:
