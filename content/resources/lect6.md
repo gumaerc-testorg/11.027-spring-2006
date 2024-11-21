@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topic of trip preparation,
   and guest presentation by Thomas Oles,
-file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/d19f201b928666a5310eac32495e789b_lect6.pdf
+file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/d19f201b928666a5310eac32495e789b_lect6.pdf
 file_size: 84389
 file_type: application/pdf
 learning_resource_types:
