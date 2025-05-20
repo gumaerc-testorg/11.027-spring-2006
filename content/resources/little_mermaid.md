@@ -2,7 +2,7 @@
 content_type: resource
 description: '"The Little Mermaid" statue shows how the sea is a large part of Danish
   culture.'
-file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/e71414b1053b9456827274857ca4e182_Little_Mermaid.jpg
+file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/e71414b1053b9456827274857ca4e182_Little_Mermaid.jpg
 file_size: 21986
 file_type: image/jpeg
 image_metadata:
