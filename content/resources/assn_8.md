@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the revision exercise.
-file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/af24fa0cb074562fc62b6a2e483fdc74_assn_8.pdf
+file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/af24fa0cb074562fc62b6a2e483fdc74_assn_8.pdf
 file_size: 52306
 file_type: application/pdf
 learning_resource_types:
