@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Old grain silos on the waterfront were converted into housing. '
-file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/21ad3c0f7738d393d289c91659c1172d_Silo_Housing.jpg
+file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/21ad3c0f7738d393d289c91659c1172d_Silo_Housing.jpg
 file_size: 25086
 file_type: image/jpeg
 image_metadata:

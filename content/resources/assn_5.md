@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the guidelines for various exercises.
-file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/42cb03490931ebd4c7e02773d26cb139_assn_5.pdf
+file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/42cb03490931ebd4c7e02773d26cb139_assn_5.pdf
 file_size: 49942
 file_type: application/pdf
 learning_resource_types:
