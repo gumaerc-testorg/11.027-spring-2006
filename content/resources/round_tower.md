@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Round Tower from the ground.
-file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/4e0949957ac38793a9fba70d9cd4d87f_Round_Tower.jpg
+file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/4e0949957ac38793a9fba70d9cd4d87f_Round_Tower.jpg
 file_size: 25473
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Because of strict zoning, the landscape beyond the city limits remains
   very rural.
-file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/544259fe4608b688d06b28fe7ed29424_Rural.jpg
+file: /ol-ocw-studio-app/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/544259fe4608b688d06b28fe7ed29424_Rural.jpg
 file_size: 29580
 file_type: image/jpeg
 image_metadata:
